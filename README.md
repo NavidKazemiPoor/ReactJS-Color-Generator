@@ -4,7 +4,7 @@ In the project directory run:
 
 ### `npm install`
 
-### `npm install values.js --save` => [values.js(https://github.com/noeldelgado/values.js)
+### `npm install values.js --save` => [values.js](https://github.com/noeldelgado/values.js)
 
 ### `npm start`
 
